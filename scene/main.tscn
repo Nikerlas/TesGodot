@@ -5,10 +5,16 @@
 
 [node name="Main" type="Node2D" unique_id=322804281]
 
+[node name="Dunia2" parent="." unique_id=1713744908 instance=ExtResource("1_v0l8b")]
+position = Vector2(480, 2)
+
 [node name="Dunia" parent="." unique_id=1665804404 instance=ExtResource("1_v0l8b")]
 
 [node name="Character" parent="." unique_id=2068984578 instance=ExtResource("2_wp4xf")]
 position = Vector2(235, 131)
 
-[node name="Dunia2" parent="." unique_id=1713744908 instance=ExtResource("1_v0l8b")]
-position = Vector2(480, 2)
+[node name="Dunia3" parent="." unique_id=447239518 instance=ExtResource("1_v0l8b")]
+position = Vector2(-1, 255)
+
+[node name="Dunia4" parent="." unique_id=1768797374 instance=ExtResource("1_v0l8b")]
+position = Vector2(474, 266)
